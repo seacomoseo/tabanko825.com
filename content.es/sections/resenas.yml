@@ -1,0 +1,90 @@
+title: Reseñas
+subtitle: Nuestros clientes son muy majos
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Miguel P.
+    description: |
+      Fuimos por recomendación de unos amigos y resultó un auténtico descubrimiento.
+
+      Un trocito de Cádiz en Murcia, eso es, la carta no es muy extensa pero recoge la mayor parte de los hits de la gastronomía gaditana.
+
+      Todo lo que probamos era producto de calidad con una elaboración exquisita.
+
+      Si a la buena comida le sumamos la amabilidad del servicio lo convierte en un sitio para repetir muchas veces.
+  - title: Sebastián S.
+    description: |
+      Otra muesca más en nuestro cuaderno de conocer nuevos restaurantes.
+
+      Esta noche le ha tocado a Tabanko 825, que es un rinconcito de Cádiz en Murcia.
+
+      En un local pequeño pero acogedor (hay terraza también), te atienden con mucha simpatía y profesionalidad. Un 10 para el servicio.
+
+      Y los platos estaban riquísimos.
+
+      Hemos empezado con unas tortillitas de camarones, croquetas de boletus y coquinas.
+
+      Continuamos con cazón en adobo y tartar de atún de almadraba. Todo ello regado con unos tercios de cerveza bien fría y unas copas de fino de Jerez.
+
+      Culminado con un coulant de chocolate y zanahoria para mi mujer... Y lo que más encaja conmigo, la tarta de quesos de la Sierra de Cádiz: "Estás como una cabra".
+
+      Volveremos, seguro.
+  - title: Rubén B.
+    description: |
+      Un rincón de Cádiz en el centro de Murcia.
+
+      Es un local íntimo con mucho encanto con un trato al producto inmejorable.
+
+      El atún es el centro de muchas elaboraciones y todas son una auténtica experiencia.
+
+      Muy recomendable.
+  - title: The Black Fanfa
+    description: |
+      Una sorpresa muy agradable.
+
+      La verdad, no puedo poner ninguna pega a nada.
+
+      El trato muy bueno y la comida de 10.
+
+      Si buscas un sitio dónde comer bien, elaborado y con una relación calidad-precio buena, este es vuestro sitio.
+
+      Nosotros nos dejamos guiar por el camarero y la verdad que salimos encantados.
+
+      Muy recomendable
+  - title: Beatriz P.
+    description: |
+      ¡Nos ha encantado!
+
+      Repetiremos sin duda.
+
+      Hace tiempo que teníamos ganas de entrar y ha sido una grata sorpresa.
+
+      Tanto la atención por parte del dueño,como la variedad de la carta y la calidad de la materia prima.Diferentes tipos de estrella de Levante de grifo, gran variedad de vermús y vinos.
+
+      El sitio es muy acogedor y la decoración muy bonita.
+
+      Soy alérgica al marisco y me han cocinado las croquetas aparte, no suelen tener el detalle en casi ningún sitio (las mejores las de cocido 🙂).
+
+      Muy recomendable y original el cocktail de vermú, super buena la ensaladilla rusa y el tartar de tomate y membrillo.
+
+      ¡¡¡El postre espectacular!!! A la próxima provaremos la carne que tenía muy buena pinta.
+
+      Muy buen precio, totalmente acorde al servicio y calidad.
+  - title: Ger R.
+    description: |
+      Hicimos una comida de amigos ya verdad que el ambiente, la atención y la comida fueron inmejorables.
+
+      Todos los platos que decidimos probar estaban muy buenos con una relación calidad-precio ajustada.
+
+      Dispone de terraza o mesas en el interior.
+- type: columns
+  items:
+  - description: |
+      Ver más de 200 reseñas, ¡o añade la tuya!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CeuCPEtFNw33EAI/review "noindex")

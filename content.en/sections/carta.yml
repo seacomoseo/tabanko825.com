@@ -1,0 +1,22 @@
+title: Letter
+subtitle: On the spot!
+bg: 23-02-10-14-32-01.jpg
+size: sm
+more:
+  opacity: 30
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - description: |
+      Important for **gluten intolerance**: All our batters are made with chickpeas and we do not use flour in the creams.
+
+      We recommend [make a reservation](#contact) and mention it beforehand, to make sure with our bakeries.
+    more:
+      align: left
+  - link: carta.pdf
+    label: Download
+    image: carta.png
+    more:
+      licon: file-pdf

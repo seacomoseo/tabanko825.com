@@ -1,0 +1,57 @@
+title: Contact
+subtitle: No commitment!
+button: link
+size: sm
+more:
+  flip_x: false
+rows:
+- type: contact
+  data:
+  - type: schedule
+    days: Wednesdays to Saturdays, <br> Evenings and Holidays
+    hours: 12:30 - 16:30, <br> 20:30 - 23:30
+  - type: schedule
+    days: '**July and August** Tuesdays'
+    hours: 20:30 - 23:30
+  - type: schedule
+    days: '**Rest of the year** Sundays'
+    hours: 12:30 - 16:30
+
+  - type: br
+
+  - type: phone
+    label: 670 20 46 63
+  - type: whatsapp
+    label: 670 20 46 63
+    button: link
+
+  - type: address
+    active: true
+    name: Tabanko 825
+    streetAddress: Pl. San Julián, 4
+    postalCode: 30004
+    addressLocality: Murcia
+    addressRegion: Murcia
+    addressCountry: Spain
+    coordinates: '{"type":"Point","coordinates":[-1.1347866,37.9844196]}'
+
+  form:
+    fill_inputs: false
+    items:
+    - type: text
+      name: Name
+      required: true
+    - type: tel
+      name: Phone
+      required: true
+    - type: email
+      name: Email
+      required: true
+    - type: textarea
+      name: Message
+      required: true
+  map:
+    active: true
+    link: https://g.page/r/CeuCPEtFNw33EAI
+    iframe: ''
+    flip_x: true

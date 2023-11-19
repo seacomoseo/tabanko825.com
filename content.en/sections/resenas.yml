@@ -1,0 +1,91 @@
+title: Reviews
+subtitle: Our customers are very nice
+rows:
+- type: reviews
+  design:
+    num: 3
+    color: white
+    slider: true
+  items:
+  - title: Miguel P.
+    description: |
+      We went on the recommendation of some friends and it was a real discovery.
+
+      A little piece of Cadiz in Murcia, that is, the menu is not very extensive but includes most of the hits of Cadiz cuisine.
+
+      Everything we tasted was quality product with an exquisite elaboration.
+
+      If to the good food we add the friendliness of the service makes it a place to repeat many times.
+  - title: Sebastián S.
+    description: |
+      Another notch in our notebook of getting to know new restaurants.
+
+      Tonight we went to Tabanko 825, which is a little corner of Cadiz in Murcia.
+
+      In a small but cozy place (there is also a terrace), they serve you with great friendliness and professionalism. A 10 for the service.
+
+      And the dishes were delicious.
+
+      We started with some shrimp omelettes, boletus croquettes and coquinas.
+
+      We continued with marinated dogfish and almadraba tuna tartar. All this washed down with a few thirds of cold beer and a few glasses of fino de Jerez.
+
+      Culminated with a chocolate and carrot coulant for my wife... And what fits me best, the cheese tart from the Sierra de Cádiz: "You're like a goat".
+
+      We will be back, for sure.
+  - title: Rubén B.
+    description: |
+      A corner of Cadiz in the center of Murcia.
+
+      It is an intimate place with lots of charm with an unbeatable treatment to the product.
+
+      The tuna is the center of many elaborations and all are an authentic experience.
+
+      Highly recommended.
+  - title: The Black Fanfa
+    description: |
+      A very pleasant surprise.
+
+      The truth is, I can't put a single negative word against anything.
+
+      The treatment very good and the food of 10.
+
+      If you are looking for a place to eat well, elaborate and with a good value for money, this is your place.
+
+      We let ourselves be guided by the waiter and the truth is that we were delighted.
+
+      Highly recommended.
+  - title: Beatriz P.
+    description: |
+      We loved it!
+
+      We will definitely repeat.
+
+      We had been wanting to go in for a long time and it has been a pleasant surprise.
+
+      Both the attention from the owner, as the variety of the menu and the quality of the raw material, different types of Levante star on tap, a great variety of vermouth and wines.
+
+      The place is very cozy and the decoration is very nice.
+
+      I am allergic to seafood and they have cooked me croquettes apart, they do not usually have the detail in almost any place (the best ones are the ones of cocido 🙂).
+
+      Highly recommended and original vermouth cocktail, super good Russian salad and tomato and quince tartar.
+
+      The dessert was spectacular! Next time we will try the meat that looked very good.
+
+      Very good price, totally according to the service and quality.
+  - title: Ger R.
+    description: |
+      We had a meal with friends and the atmosphere, the service and the food were unbeatable.
+
+      All the dishes we decided to try were very good with an adjusted quality-price ratio.
+
+      It has a terrace or tables inside.
+- type: columns
+  items:
+  - description: |
+      See more than 200 reviews, or add yours!
+      {.subtitle}
+
+      [btn icon-star Google](https://g.page/r/CeuCPEtFNw33EAI/review "noindex")
+

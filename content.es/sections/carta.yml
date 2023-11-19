@@ -1,0 +1,22 @@
+title: Carta
+subtitle: ¡Al momento!
+bg: 23-02-10-14-32-01.jpg
+size: sm
+more:
+  opacity: 30
+rows:
+- type: columns
+  design:
+    align_y: center
+  items:
+  - description: |
+      Importante para **intolerancias al gluten**: Todos nuestros rebozados son con garbanzos y no usamos harinas en las cremas.
+
+      Recomendamos [hacer una reserva](#contacto) y mencionarlo previamente, para asegurarnos con nuestras panaderías.
+    more:
+      align: left
+  - link: carta.pdf
+    label: Descargar
+    image: carta.png
+    more:
+      licon: file-pdf

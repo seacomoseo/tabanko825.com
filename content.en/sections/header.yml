@@ -1,0 +1,22 @@
+anchor: Cádiz/Andalusian Restaurant in Murcia
+bg: fondo.jpg
+gradient: main-dark
+more:
+  full_screen: true
+  opacity: 30
+  parallax: true
+  gradient_type: linear-r
+rows:
+- type: columns
+  design:
+    num: 4
+    align_y: center
+  items:
+  - subtitle: Fusion of typical Cádiz/Andalusian and Murcian cuisine
+    span: 2
+    image: logo-alt.svg
+    description: |
+      [btn icon-plus More](#main)
+  - image: https://www.youtube.com/watch?v=l_ftKRUJzaA&list=PLjvRmVBdpjvY9IJ52Z8LuJ5zB_yJLgFT0&poster=23-02-10-15-09-00.jpg
+    more:
+      ratio: 9x16

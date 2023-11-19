@@ -1,0 +1,30 @@
+title: Nosotros
+subtitle: Unos buenos canallas
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - bg: fondo.jpg
+    more:
+      align_y: strech
+  - description: |
+      Tabanko 825 es un restaurante con una gastronomía que fusiona la cocina típica gaditana y murciana, mezclando modernidad y tradición.
+
+      Aquí podrás disfrutar del auténtico atún de almadraba (una de nuestras especialidades) acompañado de nuestra gran selección de vinos.
+
+      Todo esto, rodeado de un ambiente muy canalla.
+
+      ¿Ya nos conoces?
+
+      ¡Ven y descubre Tabanko 825!
+
+      ¡Y no te pierdas nuestras redes sociales!
+
+      [btn icon-instagram @tabanko.825](https://www.instagram.com/tabanko.825/)
+    more:
+      align: left

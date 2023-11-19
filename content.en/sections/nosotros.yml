@@ -1,0 +1,30 @@
+title: We
+subtitle: Some good scoundrels
+rows:
+- type: columns
+  design:
+    num: 2
+    align_y: center
+    title: null
+    uppercase: true
+    underline: true
+  items:
+  - bg: fondo.jpg
+    more:
+      align_y: strech
+  - description: |
+      Tabanko 825 is a restaurant with a gastronomy that fuses the typical cuisine of Cádiz and Murcia, mixing modernity and tradition.
+
+      Here you can enjoy the authentic almadraba tuna (one of our specialties) accompanied by our great selection of wines.
+
+      All this, surrounded by a very rogue atmosphere.
+
+      Do you already know us?
+
+      Come and discover Tabanko 825!
+
+      And don't miss our social networks!
+
+      [btn icon-instagram @tabanko.825](https://www.instagram.com/tabanko.825/)
+    more:
+      align: left
