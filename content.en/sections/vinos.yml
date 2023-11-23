@@ -3,7 +3,7 @@ subtitle: Great selection
 rows:
 - type: gallery
   design:
-    num: 6
+    num: 3
     alt: true
     wrap: true
     gap: true

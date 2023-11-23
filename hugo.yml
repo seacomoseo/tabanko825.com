@@ -6,6 +6,7 @@ params:
   git_url: https://gitlab.com/tabanko825/tabanko825.com
   netlify_name: tabanko825
   netlify_id: 390d84c9-7786-4ecd-8935-adc8ab90a2fe
+  hook: NjRhZmY4MTAyZmQwOGEwM2UwMDY2Mjkw
   drive_link: https://drive.google.com/file/d/1-WXK9RkEIMOdj9qiJEXR8OrCSf4E5WI7
   drive_mails: juanmanuelvargasconde@gmail.com
 defaultContentLanguage: es
