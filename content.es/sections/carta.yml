@@ -1,22 +1,30 @@
 title: Carta
 subtitle: ¡Al momento!
-bg: 23-02-10-14-32-01.jpg
-size: sm
+bg: ambiente/23-02-10-14-32-01.jpg
+# size: md
 more:
   opacity: 30
 rows:
 - type: columns
   design:
+    num: 3
+    gap: 2
     align_y: center
   items:
   - description: |
+      Si algo nos caracteriza, es la poca importancia que le damos a la carta, pues estamos innovando y creando nuevas delicias constantemente, además que confiar y dejarse llevar por el criterio de Juanma es una garantía de acierto.
+
+      Aun así somos conscientes de que algunas personas se sienten más cómodas con una carta, así que ahí la dejamos.
+
       Importante para **intolerancias al gluten**: Todos nuestros rebozados son con garbanzos y no usamos harinas en las cremas.
 
       Recomendamos [hacer una reserva](#contacto) y mencionarlo previamente, para asegurarnos con nuestras panaderías.
     more:
       align: left
-  - link: carta.pdf
-    label: Descargar
-    image: carta.png
-    more:
-      licon: file-pdf
+      align_xl: right
+  - image: cartas/2024-10-02.png
+    link: cartas/2024-10-02.png
+    button: hide
+    # label: Descargar
+    # more:
+    #   licon: file-pdf

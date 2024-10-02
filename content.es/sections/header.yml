@@ -17,6 +17,6 @@ rows:
     image: logo-alt.svg
     description: |
       [btn icon-plus Más](#principal)
-  - image: https://www.youtube.com/watch?v=l_ftKRUJzaA&list=PLjvRmVBdpjvY9IJ52Z8LuJ5zB_yJLgFT0&poster=23-02-10-15-09-00.jpg
+  - image: https://www.youtube.com/watch?v=l_ftKRUJzaA&list=PLjvRmVBdpjvY9IJ52Z8LuJ5zB_yJLgFT0&poster=ambiente/24-06-27-14-12-37.jpg
     more:
       ratio: 9x16

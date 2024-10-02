@@ -32,6 +32,7 @@ rows:
     addressRegion: Murcia
     addressCountry: Spain
     coordinates: '{"type":"Point","coordinates":[-1.1347866,37.9844196]}'
+    button: invert
 
   form:
     fill_inputs: false

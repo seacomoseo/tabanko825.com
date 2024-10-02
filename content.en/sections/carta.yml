@@ -1,22 +1,30 @@
 title: Letter
 subtitle: On the spot!
-bg: 23-02-10-14-32-01.jpg
-size: sm
+bg: ambiente/23-02-10-14-32-01.jpg
+# size: md
 more:
   opacity: 30
 rows:
 - type: columns
   design:
+    num: 3
+    gap: 2
     align_y: center
   items:
   - description: |
-      Important for **gluten intolerance**: All our batters are made with chickpeas and we do not use flour in the creams.
+      If there’s one thing that defines us, it’s how little importance we give to the menu, as we are constantly innovating and creating new delights. Plus, trusting and letting yourself be guided by Juanma’s criteria is a guarantee of success.
 
-      We recommend [make a reservation](#contact) and mention it beforehand, to make sure with our bakeries.
+      Even so, we understand that some people feel more comfortable with a menu, so here it is.
+
+      Important for **gluten intolerance**: All our breadings are made with chickpeas, and we don’t use flour in our creams.
+
+      We recommend [making a reservation](#contact) and mentioning it in advance, so we can coordinate with our bakeries.
     more:
       align: left
-  - link: carta.pdf
-    label: Download
-    image: carta.png
-    more:
-      licon: file-pdf
+      align_xl: right
+  - image: cartas/2024-10-02.png
+    link: cartas/2024-10-02.png
+    button: hide
+    # label: Download
+    # more:
+    #   licon: file-pdf
