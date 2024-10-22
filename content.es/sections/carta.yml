@@ -14,17 +14,17 @@ rows:
   - description: |
       Si algo nos caracteriza, es la poca importancia que le damos a la carta, pues estamos innovando y creando nuevas delicias constantemente, además que confiar y dejarse llevar por el criterio de Juanma es una garantía de acierto.
 
-      Aun así somos conscientes de que algunas personas se sienten más cómodas con una carta, así que ahí la dejamos.
+      <!-- Aun así somos conscientes de que algunas personas se sienten más cómodas con una carta, así que ahí la dejamos. -->
 
       Importante para **intolerancias al gluten**: Todos nuestros rebozados son con garbanzos y no usamos harinas en las cremas.
 
       Recomendamos [hacer una reserva](#contacto) y mencionarlo previamente, para asegurarnos con nuestras panaderías.
-    more:
-      align: left
-      align_xl: right
-  - image: cartas/2024-10-02.png
-    link: cartas/2024-10-02.png
-    button: hide
+  #  more:
+  #    align: left
+  #    align_xl: right
+  # - image: cartas/2024-10-02.png
+  #   link: cartas/2024-10-02.png
+  #   button: hide
     # label: Descargar
     # more:
     #   licon: file-pdf

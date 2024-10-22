@@ -14,17 +14,17 @@ rows:
   - description: |
       If there’s one thing that defines us, it’s how little importance we give to the menu, as we are constantly innovating and creating new delights. Plus, trusting and letting yourself be guided by Juanma’s criteria is a guarantee of success.
 
-      Even so, we understand that some people feel more comfortable with a menu, so here it is.
+      <!-- Even so, we understand that some people feel more comfortable with a menu, so here it is. -->
 
       Important for **gluten intolerance**: All our breadings are made with chickpeas, and we don’t use flour in our creams.
 
       We recommend [making a reservation](#contact) and mentioning it in advance, so we can coordinate with our bakeries.
-    more:
-      align: left
-      align_xl: right
-  - image: cartas/2024-10-02.png
-    link: cartas/2024-10-02.png
-    button: hide
+  #   more:
+  #     align: left
+  #     align_xl: right
+  # - image: cartas/2024-10-02.png
+  #   link: cartas/2024-10-02.png
+  #   button: hide
     # label: Download
     # more:
     #   licon: file-pdf
